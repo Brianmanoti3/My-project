@@ -1,0 +1,29 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Toyota Camry",
+      "pricePerDay": 50
+    },
+    {
+      "id": 2,
+      "name": "Honda Civic",
+      "pricePerDay": 45
+    },
+    {
+      "id": 3,
+      "name": "Ford Mustang",
+      "pricePerDay": 70
+    },
+    {
+      "id": 4,
+      "name": "Chevrolet",
+      "pricePerDay": 40
+    },
+    {
+      "id": 5,
+      "name": "BMW 3 Series",
+      "pricePerDay": 90
+    }
+  ]
+}

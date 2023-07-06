@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #carList,
+  #rentForm {
+    margin-top: 20px;
+  }
+  
+  form {
+    margin-top: 10px;
+  }
+  
+  label {
+    display: block;
+    width: 100px;
+  }
+  
+  input[type="text"],
+  input[type="number"],
+  select {
+    width: 200px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  input[type="submit"] {
+    margin-left: 100px;
+    padding: 5px 10px;
+  }
+  
+  #error {
+    color: red;
+    margin-top: 10px;
+  }
+  

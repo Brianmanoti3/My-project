@@ -1,0 +1,37 @@
+# Car Rental Application
+
+This is a simple car rental application that allows users to browse and rent cars from a selection of available options. The application provides an interactive interface for users to select a car, enter rental details, and complete the rental process.
+
+## Features
+
+- View available cars: Users can browse through a list of available cars.
+- Rent a car: Users can select a car, enter their name and rental days, and submit the rental form.
+- Validation: The application validates the form inputs and displays an error message if any required field is missing.
+- Rental price calculation: The application calculates the rental price based on the selected car and the number of rental days.
+- Rental confirmation: After submitting the rental form, users receive a rental confirmation message with the total price.
+
+## Technologies Used
+
+- HTML: The structure and layout of the application.
+- CSS: Styling.
+- JavaScript: Handling of user interactions, fetching data from the API, and form validation.
+
+## Setup and Usage
+
+1. Clone the repository or download the project files.
+2. Open the `index.html` file in your web browser.
+3. You should see the Car Rental application with a list of available cars.
+4. Select a car, enter your name and rental days, and click the "Rent" button.
+5. If any required field is missing, an error message will be displayed.
+6. If all fields are filled correctly, a rental confirmation message will be shown with the total price.
+
+## License
+
+Copyright (c) 2023 Brian Manoti.
+
+
+Feel free to modify and customize the application according to your needs. Enjoy renting cars hassle-free with the Car Rental Application!
+
+---
+
+You can customize this README file based on your specific project details, such as adding installation instructions, additional features, or any other relevant information.
